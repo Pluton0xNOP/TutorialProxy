@@ -1,0 +1,7 @@
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\obj\Debug\TutorialProxy.csproj.AssemblyReference.cache
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\obj\Debug\TutorialProxy.csproj.CoreCompileInputs.cache
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\bin\Debug\TutorialProxy.exe.config
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\bin\Debug\TutorialProxy.exe
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\bin\Debug\TutorialProxy.pdb
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\obj\Debug\TutorialProxy.exe
+C:\Users\Garzon\source\repos\TutorialProxy\TutorialProxy\obj\Debug\TutorialProxy.pdb
